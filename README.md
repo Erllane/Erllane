@@ -12,7 +12,7 @@ Here is <font face="Ballet"><b>Erllane</b></font>, aunty applying PhD.
 DO WELL in : **Fish Touching**, **Water Skiing**.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erllane&show_icons=true&hide=contribs&count_private=true&bg_color=DEG,C0C0C0,DCDCDC,F5F5F5,D3D3D3,C0C0C0&title_color=000080&text_color=4682B4&icon_color=000080)](https://github.com/Erllane)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erllane)](https://github.com/Elainex0930)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erllane&show_icons=true&hide=contribs&count_private=true&bg_color=DEG,C0C0C0,DCDCDC,F5F5F5,D3D3D3,C0C0C0&title_color=000080&text_color=4682B4&icon_color=000080)](https://github.com/Erllane)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erllane)](https://github.com/Erllane)
 
 > [!TIP]
 > Click [Here](https://erllane.kesug.com/project-link) to find my PREVIOUS Repo 
